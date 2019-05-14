@@ -1,1 +1,14 @@
 SocketExample/node_modules
+AplicacionKotlin/*.iml
+AplicacionKotlin/.gradle
+AplicacionKotlin/local.properties
+AplicacionKotlin/.idea/caches
+AplicacionKotlin/.idea/libraries
+AplicacionKotlin/.idea/modules.xml
+AplicacionKotlin/.idea/workspace.xml
+AplicacionKotlin/.idea/navEditor.xml
+AplicacionKotlin/.idea/assetWizardSettings.xml
+AplicacionKotlin/.DS_Store
+AplicacionKotlin/build
+AplicacionKotlin/captures
+AplicacionKotlin/.externalNativeBuild
